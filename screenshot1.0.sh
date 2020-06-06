@@ -25,9 +25,7 @@
 
 
 IMAGEDIRECTORY=~/oscp/screenshots # you probably want to change this :)
-NAMEFILE=nextfile_donotdelete.txt
-
-#echo "${IMAGEDIRECTORY}/${NAMEFILE}"
+NAMEFILE=nextfile_donotdelete.txt # you don't want to change this!
 
 if [[ ! -f "${IMAGEDIRECTORY}/${NAMEFILE}" ]]
 then
