@@ -21,7 +21,7 @@
 #and dragging a box around the area you want to capture.
 
 #of course, if you want to take a screenshot and give something a more specific name,
-#you can always use the import command as it origianlly exists!
+#you can always use the import command as it originally exists!
 
 
 IMAGEDIRECTORY=~/oscp/screenshots # you probably want to change this :)
