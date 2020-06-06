@@ -48,6 +48,7 @@ else
 FULLPATH="${IMAGEDIRECTORY}/${IMAGEFILE}_${1}.png"
 fi
 
+#making there's not already a file with the name of our new screenshot.
 if [[ -f $FULLPATH ]]
 then
 echo "Error: ${FULLPATH} already exists."
