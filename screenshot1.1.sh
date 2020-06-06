@@ -9,7 +9,7 @@
 
 #I highly recommend setting up a permanent alias to use this script.
 #Edit ~/.bashrc to include:
-#alias screenshot="<path-to-this-script>/screenshot.sh
+#alias screenshot="<path-to-this-script>/screenshot1.1.sh
 
 #then you can take a screenshot by simply typing "screenshot" at the command line
 #and dragging a box around the area you want to capture. The first file will be named 1.png, the second 2.png, etc.
